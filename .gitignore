@@ -1,0 +1,7 @@
+.gradle
+.idea/
+build/
+journal.md
+journal.csv
+gradlew.bat
+*.iml
