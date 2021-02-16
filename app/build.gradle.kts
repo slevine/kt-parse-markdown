@@ -1,8 +1,8 @@
 application {
-    mainClass.set("com.example.ParseJournalKt")
+    mainClass.set("com.example.JournalItemVisitorKt")
     // Needed for ShadowJar
     @Suppress("DEPRECATION")
-    mainClassName = "com.example.ParseJournalKt"
+    mainClassName = "com.example.JournalItemVisitorKt"
 }
 
 plugins {
